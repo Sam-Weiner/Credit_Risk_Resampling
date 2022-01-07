@@ -1,2 +1,2 @@
-# Module_12
+# Credit Risk Resampling
 Supervised Learning
